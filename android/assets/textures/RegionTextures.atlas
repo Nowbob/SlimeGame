@@ -1,0 +1,62 @@
+
+RegionTextures.png
+size: 1944,866
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BasaltRegion
+  rotate: false
+  xy: 974, 435
+  size: 482, 429
+  orig: 482, 429
+  offset: 0, 0
+  index: -1
+DirtRegion
+  rotate: false
+  xy: 488, 2
+  size: 482, 429
+  orig: 482, 429
+  offset: 0, 0
+  index: -1
+GrassRegion
+  rotate: false
+  xy: 1460, 2
+  size: 482, 429
+  orig: 482, 429
+  offset: 0, 0
+  index: -1
+RedrockRegion
+  rotate: false
+  xy: 1460, 435
+  size: 482, 429
+  orig: 482, 429
+  offset: 0, 0
+  index: -1
+SandRegion
+  rotate: false
+  xy: 488, 435
+  size: 482, 429
+  orig: 482, 429
+  offset: 0, 0
+  index: -1
+SelectRegion
+  rotate: false
+  xy: 2, 435
+  size: 482, 429
+  orig: 482, 429
+  offset: 0, 0
+  index: -1
+SnowRegion
+  rotate: false
+  xy: 2, 2
+  size: 482, 429
+  orig: 482, 429
+  offset: 0, 0
+  index: -1
+StoneRegion
+  rotate: false
+  xy: 974, 2
+  size: 482, 429
+  orig: 482, 429
+  offset: 0, 0
+  index: -1

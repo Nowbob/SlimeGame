@@ -1,0 +1,62 @@
+
+SlimeTextures.png
+size: 1922,298
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BasaltTile
+  rotate: false
+  xy: 1, 1
+  size: 254, 296
+  orig: 254, 296
+  offset: 0, 0
+  index: -1
+DirtTile
+  rotate: false
+  xy: 1281, 1
+  size: 254, 296
+  orig: 254, 296
+  offset: 0, 0
+  index: -1
+GrassTile
+  rotate: false
+  xy: 513, 1
+  size: 254, 296
+  orig: 254, 296
+  offset: 0, 0
+  index: -1
+RedrockTile
+  rotate: false
+  xy: 1537, 1
+  size: 254, 296
+  orig: 254, 296
+  offset: 0, 0
+  index: -1
+SandTile
+  rotate: false
+  xy: 1025, 1
+  size: 254, 296
+  orig: 254, 296
+  offset: 0, 0
+  index: -1
+SnowTile
+  rotate: false
+  xy: 769, 1
+  size: 254, 296
+  orig: 254, 296
+  offset: 0, 0
+  index: -1
+StoneTile
+  rotate: false
+  xy: 257, 1
+  size: 254, 296
+  orig: 254, 296
+  offset: 0, 0
+  index: -1
+blob
+  rotate: false
+  xy: 1793, 201
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
