@@ -32,7 +32,7 @@ public class MyGdxGame implements ApplicationListener, GestureListener, InputPro
 	public static final float CAMERA_MAP_CLAMP_MAX = 2.25f;
 	public static final float CAMERA_REGION_CLAMP_MIN = 5f;
 	public static final float CAMERA_REGION_CLAMP_MAX = 12f;
-	public static final long CAMERA_TRANSITION_TIME = 2000;		//The time it takes the camera to zoom in/out during transition
+	public static final long CAMERA_TRANSITION_TIME = 1000;		//The time it takes the camera to zoom in/out during transition
 	public static final float FADE_MULTI_MIN = 1.12f;			//These fade multis are multiplied to CAMERA_MAP_CLAMP_MAX to determine when to start/end fading from tiles to regions
 	public static final float FADE_MULTI_MAX = 1.4f;
 
